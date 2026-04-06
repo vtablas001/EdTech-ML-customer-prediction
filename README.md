@@ -3,10 +3,16 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 ## Context
-The EdTech industry has experienced immense growth over the past decade, heavily accelerated by the Covid-19 pandemic. With a compound annual growth rate (CAGR) of 10.26%, the market is highly competitive. EdTech companies leverage digital marketing to reach wide audiences, generating "leads"—individuals who show interest by browsing the website, downloading brochures, or interacting via email and social media. The critical challenge is efficiently nurturing these leads and converting them into paid customers.
+The EdTech industry has experienced immense growth over the past decade, a transformation heavily accelerated by the global disruptions of the Covid-19 pandemic. According to UNESCO (2020) in the report *National education responses to COVID-19: Summary report of UNESCO's online survey*, at the peak of the pandemic, remote learning became a necessary lifeline for over 1.5 billion students globally, permanently shifting consumer attitudes toward digital and distance education (p. 1). 
+
+This momentum has carried into the post-pandemic era. The World Bank (2020), in the document *Reimagining human connections: Technology and innovation in education*, emphasizes that EdTech is no longer just a temporary stopgap but a core component for building resilient, personalized, and scalable educational systems worldwide (p. 8). Furthermore, the Inter-American Development Bank (IDB, 2021) highlights in its report *Education Technology in Latin America and the Caribbean* the critical role these platforms play in the modern labor market, noting that online education is essential for closing the global tech and digital skills gap through the continuous upskilling and reskilling of the professional workforce (p. 12). 
+
+Driven by these macro trends, the Online Education market continues to expand rapidly, with forecasts projecting sustained compound annual growth rates (CAGR) exceeding 10%. However, this explosive growth has led to a highly competitive landscape. EdTech companies must leverage sophisticated digital marketing strategies to reach wide audiences, generating "leads"—individuals who show interest by browsing websites, downloading brochures, or interacting via email and social media. In this saturated market, the critical challenge for businesses is no longer just acquiring leads, but efficiently allocating resources and deploying data-driven strategies to convert those prospects into paid customers.
+
+***
 
 ## Objective
-ExtraaLearn, an initial-stage startup offering cutting-edge technology programs, generates a large volume of leads daily. To optimize resource allocation, this project aims to:
+An initial-stage startup offering cutting-edge technology programs, generates a large volume of leads daily. To optimize resource allocation, this project aims to:
 1. Analyze and build a Machine Learning model to identify which leads are most likely to convert to paid customers.
 2. Uncover the underlying factors driving the lead conversion process.
 3. Create a data-driven profile of high-probability leads to inform marketing and sales strategies.
@@ -53,3 +59,8 @@ The dataset consists of 4,612 records and 15 variables with no missing values. I
 2. **Prioritize Professional Leads:** Tailor marketing copy to highlight career growth, upskilling, and immediate ROI to resonate with the professional and job-seeking demographics.
 3. **Optimize the Digital Funnel:** Shift budget away from low-performing print media. Invest in optimizing the website's user experience (UX) and email nurturing campaigns, as these channels demonstrably close more sales than phone calls.
 4. **Implement Lead Scoring:** Use the model's probabilities to rank incoming leads. Sales representatives should immediately prioritize individuals who have high website engagement and medium-to-high profile completion.
+
+### References
+Inter-American Development Bank & HolonIQ. (2021). *Education Technology in Latin America and the Caribbean*. Washington, DC: IDB.
+UNESCO. (2020). *National education responses to COVID-19: Summary report of UNESCO's online survey*. Paris: UNESCO.
+World Bank. (2020). *Reimagining human connections: Technology and innovation in education at the World Bank*. Washington, DC: World Bank.
